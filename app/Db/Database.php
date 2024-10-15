@@ -11,9 +11,9 @@ class Database
 
     const NAME = 'banco_vagas';
 
-    const USER = 'root';
+    const USER = '';
 
-    const PASS = 'OnePiece10M';
+    const PASS = '';
 
     private $table;
 
